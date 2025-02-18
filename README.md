@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @luneaclat
-- 👀 I’m interested in cosplay, hoyoverse games, lol, html, python, bls, animes and so on
-- 🌱 I’m currently learning python
-- 📫 How to reach me instagram or whatsapp
-- 😄 Pronouns: he/him or she/her
+- 👋 Hi, I’m @luneaclat (on instagram too)
+- 👀 I’m interested in Cosplay, Hoyoverse games, Lol, Html, Python, Bl's, Animes and so on
+- 🌱 I’m currently learning Python :)
+- 📫 How to reach me: Instagram, Whatsapp or Discord
+- 😄 Pronouns: he/him or she/her (what u prefer :) )
 
 <!---
 luneaclat/luneaclat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
